@@ -1,0 +1,209 @@
+.NavbarDate {
+    width: 750px;
+    height: 35px;
+    background: linear-gradient(#7f2185 0%, #401143 100%);
+    border: 1px solid #707070;
+    border-radius: 51px;
+    list-style-type: none;
+
+  }
+  
+  .LeftLi {
+    float: left;
+  }
+  
+  .NavbarDateTitre {
+    display: block;
+    color: white;
+
+    padding: 7px 23px;
+    text-decoration: none;
+    font-family: "Segoe UI";
+    font-weight: normal;
+}
+.NavbarDateImage {
+    width:16px;
+    height: 16px;
+  
+}
+.NavbarDateLive {
+    width:20px;
+    height: 18px;
+  
+}
+
+  .active {
+    background-color:white;
+    color:#7F2185;
+    font-weight:bold;
+  } 
+
+  .Matche {
+ 
+    width: 560px;
+    height: 80px;
+    background: linear-gradient(#7f2185 0%, #401143 100%);
+    border: 1px solid #707070;
+    border-radius: 51px;
+    list-style-type: none;
+
+  }
+
+.InfoMatch {
+  width:100%;
+  margin-left: -18px;
+}
+.MatcheEtat{
+border-radius: 20px;
+background: #1AB715;
+font-weight:bold;
+font-size:14px;
+text-align: center;
+padding: 3px 3px;
+}
+.ImageEquipe{
+  widows: 30px;
+  height: 30px;
+  text-align: center;
+   
+}
+.ImageCompetetion{
+  widows: 40px;
+  height: 40px;
+
+}
+.equipe{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 15px;
+  text-align: right;
+  color: #f3f3f3;
+  width:30%;
+}
+
+
+.equipeB{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 15px;
+  text-align: left;
+  color: #f3f3f3;
+  width:30%;
+
+}
+
+.LesButs{
+  font-family: Verdana;
+font-weight: normal;
+font-size: 20px;
+text-align: center;
+color: #f3f3f3;
+}
+
+
+.MatcheVote{ 
+  width: 560px;
+  height: 180px;
+  background: linear-gradient(#7f2185 0%, #401143 100%);
+  border: 1px solid #707070;
+  border-radius: 51px;
+  list-style-type: none;
+}
+
+.MatcheEtatB{
+  border-radius: 20px;
+  background: #43B1FB;
+  font-weight:bold;
+  font-size:14px;
+  text-align: center;
+  padding: 3px 3px;
+  }
+
+  .BorderVote{
+    width: 60px;
+    height: 80px;
+background: transparent;
+border: 2px solid #fff9f9;
+text-align:center;
+margin-top: 15px;
+  }
+
+  .EquipeWinner{
+    font-family: Corbel;
+font-weight: bold;
+font-size: 13px;
+color: #fff;
+
+  }
+  
+  
+  .ImageEquipeVote{
+    widows: 30px;
+    height: 30px;
+    text-align: center;
+    margin-top:15px;
+  }
+
+  .EquipeVote{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 15px;
+    text-align: center;
+    color: #f3f3f3;
+    width:30%;
+  }
+  .EquipeDraw{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 15px;
+    color: red;
+    
+    width:30%;
+    margin-left: 18px;
+  }
+
+  .BorderVoteFinal{
+    width: 60px;
+    height: 130px;
+background: transparent;
+border: 2px solid #fff9f9;
+text-align:center;
+
+  }
+
+  .Pourcentage{
+font-weight: bold;
+font-size: 15px;
+color: #fff;
+
+  }
+
+.BackgroundVoteFinalA{
+
+background: #43b1fb;
+border: 1px solid #707070;
+opacity: 0.53;
+max-height: 50% ;
+}
+
+
+.BackgroundVoteFinalDraw{
+
+
+  background:  #1ab715;
+  border: 1px solid #707070;
+  opacity: 0.53;
+  max-height: 50% ;
+  }
+
+  
+.BackgroundVoteFinalB{
+
+
+  background:  #F8DF00;
+  border: 1px solid #707070;
+  opacity: 0.53;
+  padding-top:20px;
+ 
+  }
+
